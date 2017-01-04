@@ -1,0 +1,3 @@
+start
+update price : http://www.magiccorporation.com/gathering-cartes-view-29823-benevolent-bodyguard.html
+card 5
